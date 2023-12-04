@@ -16,7 +16,9 @@ const Skills = () => {
 
   return (
     <div className="text-center py-8">
-      <p>Skills</p>
+      <p className="px-5 py-1 bg-[#E5E7EB]  w-fit mx-auto rounded-2xl">
+        Skills
+      </p>
       <p>The skills, tools, and technologies I am really good at:</p>
 
       <ul className="flex gap-10 flex-wrap justify-center mt-4 text-center after:content-[''] after:w-16">

@@ -4,7 +4,9 @@ const Footer = () => {
   return (
     <div className="text-center py-24">
       <div>
-        <p className=" px-5 py-1 bg-[#E5E7EB] w-fit mx-auto">Get in Touch</p>
+        <p className=" px-5 py-1 bg-[#E5E7EB] w-fit mx-auto rounded-2xl">
+          Get in Touch
+        </p>
         <p>
           What&#39;s next? Feel free to reach out to me if you&#39;re looking
           for a developer, have a query, or simply want to connect.

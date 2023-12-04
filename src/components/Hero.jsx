@@ -7,7 +7,7 @@ const Hero = () => {
       <Image
         src={pp}
         alt="photo"
-        className=" aspect-[4/5] max-w-[240px] object-cover shadow-2xl object-top border rounded-3xl"
+        className=" aspect-[4/5] max-w-[240px] object-cover shadow-2xl object-top border rounded-3xl mb:mx-auto"
       />
       <div className="flex gap-[48px] flex-col">
         <div>
